@@ -1,19 +1,20 @@
-#  Projeto de Sistemas Embarcados - PMR0120
-
-![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
-![Linguagem](https://img.shields.io/badge/C++-blue)
-![Plataforma](https://img.shields.io/badge/Plataforma-ESP32%2FArduino-green)
-
-## Descrição
+<p align="center">
+  <img src="images/safegas.png" alt="Logo SafeGas" width="400"/>
+</p>
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-- **C++** para programação do microcontrolador
-- **Plataforma Arduino** para desenvolvimento
-- **ESP32** como placa principal
-- Sensores 
+## 📖 Sobre o Projeto  
+<!-- Escreva aqui a descrição do projeto -->
+_Descreva aqui do que se trata o projeto, seus objetivos e contexto._
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório  
+
+```bash
+├── docs/              # Documentação do projeto
+├── src/               # Código-fonte principal
+├── tests/             # Testes automatizados
+├── assets/            # Imagens, ícones e mídias
+└── README.md          # Documentação principal
